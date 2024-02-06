@@ -1,1 +1,1 @@
-# SSW567HW2
+[![build status of master](https://travis-ci.org/gj-entertain/SSW567HW2.svg?branch=master)](https://travis-ci.org/gj-entertain/SSW567HW2)
